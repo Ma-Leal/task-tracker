@@ -16,9 +16,6 @@ Este projeto segue a arquitetura hexagonal, separando lógica de negócio da inf
 - **Repositories**: Persistência em JSON
 - **Handlers**: Interface com CLI
 
-## 📖 Referências
-- [Roadmap Task Tracker](https://roadmap.sh/projects/task-tracker)
-
 ## 📜 Menu de Comandos
 ```
 =================================
